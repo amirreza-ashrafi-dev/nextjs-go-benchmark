@@ -9,6 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "exceljs": "^4.4.0",
+    "fflate": "^0.8.3",
     "next": "16.5.0-canary.40",
     "react": "19.3.1",
     "react-dom": "19.3.1"
